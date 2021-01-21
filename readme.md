@@ -27,7 +27,7 @@ Needed for the project
 - Note: 10K Ohm Resistor is connected to Potentiometer whereas 220 Ohm to LCD
 - You need to have everything from the list above and connected like this:
 
-  ![NotFound](LCD with DHT Sensor.png)
+  ![NotFound](circuit.png)
 
 - Now important!
 
