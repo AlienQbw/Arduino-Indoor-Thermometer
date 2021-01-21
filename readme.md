@@ -33,7 +33,7 @@ Needed for the project
 
 DHT Sensor requires DHTLibrary. Now how to include it:
 
-1.  Click on the download link to download .zip DHTLib (https://www.circuitbasics.com/wp-content/uploads/2015/10/DHTLib.zip)
+1.  Click on the download link to download .zip DHTLib (https://www.circuitbasics.com/wp-content/uploads/2015/10/DHTLib.zip), or download it directly from my project.
 2.  Now open Arduino IDE
 3.  Then go to Sketch>Include Library>Add .ZIP Library and select the DHTLib.zip file which you downloaded.
 
