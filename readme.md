@@ -19,6 +19,7 @@ Needed for the project
 - 220 Ohm Resistor
 - 10K Ohm Resistor
 - 20x connectors
+- Breadboard
 
 ## Setup
 
@@ -31,7 +32,7 @@ Needed for the project
 
 - Now important!
 
-DHT Sensor requires DHTLibrary. Now how to include it:
+DHT Sensor requires DHTLibrary. Now, how to include it:
 
 1.  Click on the download link to download .zip DHTLib (https://www.circuitbasics.com/wp-content/uploads/2015/10/DHTLib.zip), or download it directly from my project.
 2.  Now open Arduino IDE
